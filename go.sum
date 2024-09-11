@@ -1,5 +1,7 @@
 github.com/gonebot-dev/gonebot v0.1.1 h1:zOZLLZSLFDNa+zIRElelWFDmxj1WTo0uKiRE7nhfgNE=
 github.com/gonebot-dev/gonebot v0.1.1/go.mod h1:cjMN0ZYmkGu3XwVTVnBIWlH1Xa8EzqiERpl/OwlICOY=
+github.com/gonebot-dev/gonebot v0.1.4 h1:FB+/1Kxhd8ha1Vz0LQukF1I0umvTATEIx7NYW2sDRQw=
+github.com/gonebot-dev/gonebot v0.1.4/go.mod h1:cjMN0ZYmkGu3XwVTVnBIWlH1Xa8EzqiERpl/OwlICOY=
 github.com/gonebot-dev/grepo v0.0.0-20240902014001-8c7fa1e4173a h1:Et4huo/W/CHTNnQ1rSQ69xkNHJCt7fqX31FNZnVOHVM=
 github.com/gonebot-dev/grepo v0.0.0-20240902014001-8c7fa1e4173a/go.mod h1:3k7y+qS7R1dcQraerOZ9KUiDYW/VxIMYn1EiyOBqjUw=
 github.com/gorilla/websocket v1.5.3 h1:saDtZ6Pbx/0u+bgYQ3q96pZgCzfhKXGPqt7kZ72aNNg=

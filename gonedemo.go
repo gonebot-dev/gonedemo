@@ -7,6 +7,7 @@ import (
 
 func main() {
 	grepo.Require("echo", "latest")
+	grepo.Require("status", "latest")
 
 	gonebot.StartBackend("onebot11")
 }

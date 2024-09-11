@@ -3,7 +3,7 @@ module gonedemo
 go 1.22.6
 
 require (
-	github.com/gonebot-dev/gonebot v0.1.1
+	github.com/gonebot-dev/gonebot v0.1.4
 	github.com/gonebot-dev/grepo v0.0.0-20240902014001-8c7fa1e4173a
 )
 
