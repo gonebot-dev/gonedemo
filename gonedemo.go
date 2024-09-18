@@ -1,13 +1,15 @@
 package main
 
 import (
+	onebotv11 "github.com/gonebot-dev/goneadapter-onebotv11"
 	"github.com/gonebot-dev/gonebot"
-	"github.com/gonebot-dev/grepo"
+	echo "github.com/gonebot-dev/goneplugin-echo"
+	status "github.com/gonebot-dev/goneplugin-status"
 )
 
 func main() {
-	grepo.Require("echo", "latest")
-	grepo.Require("status", "latest")
-
-	gonebot.StartBackend("onebot11")
+	gonebot.LoadPlugin(&echo.Echo)
+	gonebot.LoadPlugin(&status.Status)
+	gonebot.LoadAdapter(&onebotv11.OneBotV11)
+	gonebot.Run()
 }
