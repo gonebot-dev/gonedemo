@@ -3,10 +3,10 @@ module gonedemo
 go 1.22.7
 
 require (
-	github.com/gonebot-dev/goneadapter-onebotv11 v0.0.0-20240918035105-637a9271f0ce
-	github.com/gonebot-dev/gonebot v0.1.5-0.20240918034736-d414155de0bb
-	github.com/gonebot-dev/goneplugin-echo v0.0.0-20240918024808-70b7385c7a39
-	github.com/gonebot-dev/goneplugin-status v0.0.0-20240918025348-8f83b1235c69
+	github.com/gonebot-dev/goneadapter-onebotv11 v0.1.0
+	github.com/gonebot-dev/gonebot v1.0.1
+	github.com/gonebot-dev/goneplugin-echo v0.1.0
+	github.com/gonebot-dev/goneplugin-status v0.1.0
 )
 
 require (
@@ -19,7 +19,7 @@ require (
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/shirou/gopsutil v3.21.11+incompatible // indirect
-	github.com/tidwall/gjson v1.17.3 // indirect
+	github.com/tidwall/gjson v1.18.0 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.1 // indirect
 	github.com/tklauser/go-sysconf v0.3.14 // indirect
