@@ -3,10 +3,10 @@ module gonedemo
 go 1.22.7
 
 require (
-	github.com/gonebot-dev/goneadapter-onebotv11 v0.1.0
-	github.com/gonebot-dev/gonebot v1.0.1
-	github.com/gonebot-dev/goneplugin-echo v0.1.0
-	github.com/gonebot-dev/goneplugin-status v0.1.0
+	github.com/gonebot-dev/goneadapter-onebotv11 v0.1.1
+	github.com/gonebot-dev/gonebot v1.0.2
+	github.com/gonebot-dev/goneplugin-echo v0.1.1
+	github.com/gonebot-dev/goneplugin-status v0.1.1
 )
 
 require (
